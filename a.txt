@@ -1,2 +1,1 @@
-this is a this is lld4 learning
-revision
+this is a
