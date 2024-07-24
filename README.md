@@ -1,4 +1,4 @@
-This is git brushup Git commands:
+This is git brushup
 
 git init
 git diff
